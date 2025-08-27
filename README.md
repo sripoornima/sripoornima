@@ -29,40 +29,42 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ---
 
 ## 📊 GitHub Stats  
-**Sripoornimadevi T S's GitHub Summary**
+### Sripoornimadevi T S's GitHub Summary
 
 ---
 
 ### 🔹 User Stats
-- ⭐ **Total Stars Earned**: 0  
-- 🔁 **Total Commits**: 180+  
-- 📤 **Total Pull Requests**: 0  
-- 🐞 **Total Issues**: 0  
-- 🌍 **Contributed to (last year)**: 0  
-- 🌀 **Progress Grade**: A+
+- ⭐ Total Stars Earned: `0`  
+- 🔁 Total Commits (2023): `0`  
+- 📤 Total Pull Requests: `0`  
+- 🐞 Total Issues: `0`  
+- 🌍 Contributed to (last year): `0`  
+- 🌀 Progress Grade: `A+`
 
 ---
 
 ### 🔸 Contribution Details
-- 📅 **Total Contributions**: 193  
-- 🕒 **Time Period**: May 21, 2020 – Present  
-- 🔥 **Current Streak**: 3 days  
-- 🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)
+- 📅 Total Contributions: `193`  
+- 🕒 Time Period: `May 21, 2020 – Present`  
+- 🔥 Current Streak: `3 days`  
+- 🏆 Longest Streak: `3 days (Feb 26–28, 2024)`  
+- 📍 Last Contribution: `Aug 27`
 
 ---
 
 ### 🔸 Most Used Languages
-| Language      | Usage    |
-|---------------|----------|
-| 💻 Java        | High     |
-| 🌐 HTML        | High     |
-| 🎨 CSS         | Medium   |
-| ⚙️ JavaScript  | Moderate |
+| Language      | Usage     |
+|---------------|-----------|
+| 💻 Java        | High      |
+| 🌐 HTML        | High      |
+| 🎨 CSS         | Medium    |
+| ⚙️ JavaScript  | Low       |
 
 ---
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornimadevi1&theme=darkhub)
+
 
 
 
