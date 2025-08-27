@@ -29,42 +29,37 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ---
 
 ## 📊 GitHub Stats  
-### Sripoornimadevi T S's GitHub Summary
-
-Or a compact version:
-
-```markdown
-🌀 **Progress Ring**: ▓▓▓░░░░░░ (30%)  
-🎯 **Grade**: A+
+### 🧑‍💻 Sripoornimadevi T S's GitHub Summary
 
 ---
 
-### 🔹 User Stats
-- ⭐ Total Stars Earned: `0`  
-- 🔁 Total Commits (2023): `0`  
-- 📤 Total Pull Requests: `0`  
-- 🐞 Total Issues: `0`  
-- 🌍 Contributed to (last year): `0`  
-- 🌀 Progress Grade: `A+`
+### 🟦 User Stats  
+⭐ **Total Stars Earned**: 0  
+🔁 **Total Commits (2023)**: 0  
+📤 **Total Pull Requests**: 0  
+🐞 **Total Issues**: 0  
+🌍 **Contributed to (last year)**: 0  
+🌀 **Prowess Grade**: A+  
+🎯 **Progress Ring**: ▓▓▓▓▓▓░░░░ (60%)
 
 ---
 
-### 🔸 Contribution Details
-- 📅 Total Contributions: `193`  
-- 🕒 Time Period: `May 21, 2020 – Present`  
-- 🔥 Current Streak: `3 days`  
-- 🏆 Longest Streak: `3 days (Feb 26–28, 2024)`  
-- 📍 Last Contribution: `Aug 27`
+### 🟨 Contribution Summary  
+📅 **Total Contributions**: 153  
+🕒 **Active Period**: May 21, 2020 – Present  
+🔥 **Current Streak**: 3 days  
+🏆 **Longest Streak**: 24 days  
+📍 **Last Contribution**: Aug 27
 
 ---
 
-### 🔸 Most Used Languages
-| Language      | Usage     |
-|---------------|-----------|
-| 💻 Java        | High      |
-| 🌐 HTML        | High      |
-| 🎨 CSS         | Medium    |
-| ⚙️ JavaScript  | Low       |
+### 🟩 Most Used Languages  
+| Language       | Usage   |
+|----------------|---------|
+| 💻 Java         | High    |
+| 🌐 HTML         | High    |
+| 🎨 CSS          | Medium  |
+| ⚙️ JavaScript   | Low     |
 
 ---
 
