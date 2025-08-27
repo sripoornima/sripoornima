@@ -27,28 +27,18 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-## 📊 GitHub Stats:
+GitHub Stats:
 
 
 
 ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)
 
-
-
-
----
-## 🏆 GitHub Trophies  
 [![Sripoornima's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripoornima&theme=dark)](https://github.com/sripoornima/github-readme-stats)
 
 
 
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sripoornima&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/sripoornima)
 
-### 🟩 Most Used Languages  
-![Java](https://img.shields.io/badge/Java-High-blue?style=for-the-badge&logo=openjdk)  
-![HTML](https://img.shields.io/badge/HTML-High-orange?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-Medium-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Low-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
