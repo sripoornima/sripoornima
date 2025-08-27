@@ -45,12 +45,19 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📁 Featured Projects:
 <p align="center">
-  <img src="https://github-readme-stats-mirror.vercel.app/api?username=sripoornimadevi1&show_icons=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=sripoornimadevi1&theme=dark" />
-  <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=sripoornimadevi1&layout=compact&theme=dark" />
+  <a href="https://github.com/sripoornimadevi1/mobile-prepaid-webapp" target="_blank">
+    <img src="https://img.shields.io/badge/Mobile%20Prepaid%20Web%20App-Spring%20Boot%20%7C%20MySQL-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sripoornimadevi1/elecxa-ecommerce-platform" target="_blank">
+    <img src="https://img.shields.io/badge/ElecXa%20E-commerce%20Platform-Spring%20MVC%20%7C%20Thymeleaf-purple?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sripoornimadevi1/portfolio-website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Website-HTML%20%7C%20CSS%20%7C%20JS-green?style=for-the-badge" />
+  </a>
 </p>
+
 ## 📈 GitHub Activity Summary:
 - 🔥 Total Commits: 180+
 - 📦 Total Projects: 3+
