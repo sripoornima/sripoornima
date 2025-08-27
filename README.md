@@ -31,6 +31,12 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ## 📊 GitHub Stats  
 ### Sripoornimadevi T S's GitHub Summary
 
+Or a compact version:
+
+```markdown
+🌀 **Progress Ring**: ▓▓▓░░░░░░ (30%)  
+🎯 **Grade**: A+
+
 ---
 
 ### 🔹 User Stats
