@@ -27,7 +27,7 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornimadevi1&theme=dark&hide_border=false)
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)
 
 
 
