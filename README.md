@@ -27,32 +27,35 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)
-
+## 📊 GitHub Stats:
 
 ---
-### 🌀 Prowess Grade  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&lines=Grade:+C" alt="Prowess Grade" />
 
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornimadevi1&theme=dark&hide_border=false)
+
+---
+
+### 🌀 Prowess Grade  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&lines=Grade:+A+" alt="Prowess Grade" />
 
 ---
 
 ### 🟨 Contribution Summary  
 📅 **Total Contributions**: 193  
 🕒 **Active Period**: May 21, 2020 – Present  
-🔥 **Current Streak**: 0 days  
-🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)  
+🔥 **Current Streak**: 3 days  
+🏆 **Longest Streak**: 24 days  
 📍 **Last Contribution**: Aug 27
 
 ---
 
 ### 🟩 Most Used Languages  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-97.15%25-orange?style=for-the-badge&logo=jupyter)  
-![Python](https://img.shields.io/badge/Python-2.85%25-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-High-blue?style=for-the-badge&logo=openjdk)  
+![HTML](https://img.shields.io/badge/HTML-High-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS-Medium-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Low-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornima&theme=darkhub)
-
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornimadevi1&theme=darkhub)
