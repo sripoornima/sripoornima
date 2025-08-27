@@ -30,4 +30,5 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sripoornimadevi1&theme=github-dark)
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sripoornimadevi1&theme=github-dark" alt="GitHub Contribution Graph" width="100%" />
 
