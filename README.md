@@ -1,5 +1,6 @@
 ## About Me  
-I’m a Computer Science Engineering graduate at Knowledge Institute of Technology (2021–2025), passionate about backend development, databases, and scalable web apps.  
+I’m a Computer Science Engineering graduate .
+
 Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on experience in REST APIs, JUnit, and Mockito.
 
  Reach me at: sripoornimadevi24@gmail.com  
