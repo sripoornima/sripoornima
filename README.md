@@ -38,13 +38,8 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 
 
 ---
-
-### 🟨 Contribution Summary  
-📅 **Total Contributions**: 193  
-🕒 **Active Period**: May 21, 2020 – Present  
-🔥 **Current Streak**: 3 days  
-🏆 **Longest Streak**: 24 days  
-📍 **Last Contribution**: Aug 27
+## 🏆 GitHub Trophies  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?user=sripoornima&theme=darkhub)
 
 ---
 
@@ -56,5 +51,4 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 
 ---
 
-## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornima&theme=darkhub)
+
