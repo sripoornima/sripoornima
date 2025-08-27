@@ -24,11 +24,37 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=wh
 
+---
 
+## 📊 GitHub Stats  
+**Sripoornimadevi T S's GitHub Summary**
 
+### 🔹 User Stats
+- ⭐ **Total Stars Earned**: 0  
+- 🔁 **Total Commits**: 180+  
+- 📤 **Total Pull Requests**: 0  
+- 🐞 **Total Issues**: 0  
+- 🌍 **Contributed to (last year)**: 0  
+- 🌀 **Progress Grade**: `C`
+
+### 🔸 Contribution Details
+- 📅 **Total Contributions**: 193  
+- 🕒 **Time Period**: May 21, 2020 – Present  
+- 🔥 **Current Streak**: 3 days  
+- 🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)
+
+### 🔸 Most Used Languages
+| Language        | Usage     |
+|----------------|-----------|
+| 💻 Java         | High      |
+| 🌐 HTML         | High      |
+| 🎨 CSS          | High      |
+| ⚙️ JavaScript   | Moderate  |
+
+---
+
+## 📈 GitHub Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sripoornimadevi1&theme=github-dark)
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sripoornimadevi1&theme=github-dark" alt="GitHub Contribution Graph" width="100%" />
 
