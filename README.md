@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sripoornimadevi T S</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🎓 CSE Student | 🌐 Tech Explorer</h3>
+<h3 align="center">💻 Aspiring Software Developer | 🎓 CSE Student @ KIOT | 🌐 Tech Explorer</h3>
 
 ---
 
 ## 🧠 About Me:
-- 🎓 B.Tech in Computer Science Engineering @ Knowledge Institute of Technology (2021–2025)
+- 🎓 B.E. in Computer Science Engineering @ Knowledge Institute of Technology (2021–2025)
 - 💡 Passionate about backend development, databases, and building scalable web apps
-- 🌱 Currently learning: Spring Boot, Docker, Kubernetes
-- 📫 How to reach me: sripoornimadevi1@gmail.com
+- 🌱 Currently exploring: Spring Boot, Docker, Kubernetes, Jenkins
+- 🧪 Experienced with: JUnit, Mockito, REST APIs
+- 📫 How to reach me: sripoornimadevi24@gmail.com
 
 ---
 
@@ -61,9 +62,18 @@
 ---
 
 ## 🏆 Achievements:
-- 🌟 Internship at Bharat Intern – Full Stack Development
-- 🧠 Internship at CodSoft – Java Development
-- 🛠️ Internship at Oasis Infobyte – Web Development
+- 🌟 Internship at Bharat Intern – Full Stack Development  
+- 🧠 Internship at CodSoft – Java Development  
+- 🛠️ Internship at Oasis Infobyte – Web Development  
+- 🥉 3rd place in Threads 2022 Techshow @ SCT  
+- 📜 TEFL Certified – Asian College of Teachers  
+- 📚 Project Management Course – Coursera
 
+---
 
+## 🗣️ Languages Known:
+Tamil, English, Hindi, Sanskrit, Telugu, Malayalam (understandable)
 
+---
+
+<p align="center">✨ Thanks for visiting my profile! Let's connect and build something amazing 💻</p>
