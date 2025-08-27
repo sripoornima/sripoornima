@@ -43,5 +43,5 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)  
 📍 **Last Contribution**: Aug 27
 
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornima1&theme=darkhub)
 
