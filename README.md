@@ -30,7 +30,18 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)
 
 
+---
+### 🌀 Prowess Grade  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&lines=Grade:+C" alt="Prowess Grade" />
 
+---
+
+### 🟨 Contribution Summary  
+📅 **Total Contributions**: 193  
+🕒 **Active Period**: May 21, 2020 – Present  
+🔥 **Current Streak**: 0 days  
+🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)  
+📍 **Last Contribution**: Aug 27
 
 
 
