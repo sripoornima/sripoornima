@@ -57,4 +57,6 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 
 ## 📈 GitHub Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sripoornimadevi1&theme=github-dark)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sripoornimadevi1&theme=darkhub)](https://github.com/sripoornimadevi1)
+
 
