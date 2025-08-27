@@ -31,13 +31,17 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ## 📊 GitHub Stats  
 **Sripoornimadevi T S's GitHub Summary**
 
+---
+
 ### 🔹 User Stats
 - ⭐ **Total Stars Earned**: 0  
 - 🔁 **Total Commits**: 180+  
 - 📤 **Total Pull Requests**: 0  
 - 🐞 **Total Issues**: 0  
 - 🌍 **Contributed to (last year)**: 0  
-- 🌀 **Progress Grade**: `C`
+- 🌀 **Progress Grade**: A+
+
+---
 
 ### 🔸 Contribution Details
 - 📅 **Total Contributions**: 193  
@@ -45,16 +49,21 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 - 🔥 **Current Streak**: 3 days  
 - 🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)
 
+---
+
 ### 🔸 Most Used Languages
-| Language        | Usage     |
-|----------------|-----------|
-| 💻 Java         | High      |
-| 🌐 HTML         | High      |
-| 🎨 CSS          | High      |
-| ⚙️ JavaScript   | Moderate  |
+| Language      | Usage    |
+|---------------|----------|
+| 💻 Java        | High     |
+| 🌐 HTML        | High     |
+| 🎨 CSS         | Medium   |
+| ⚙️ JavaScript  | Moderate |
+
+---
 
 ## 🏆 GitHub Trophies  
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornimadevi1&theme=darkhub)](https://github.com/sripoornimadevi1)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornimadevi1&theme=darkhub)
+
 
 
 
