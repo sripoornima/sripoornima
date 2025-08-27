@@ -29,8 +29,9 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ---
 ## 📊 GitHub Stats:
 
----
----
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sripoornima&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
