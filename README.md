@@ -31,7 +31,7 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 
 
 
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornimadevi1&theme=dark&hide_border=false)
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)
 
 
 
