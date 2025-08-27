@@ -1,7 +1,7 @@
 ## About Me  
 I’m a Computer Science Engineering graduate .
 
-Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on experience in REST APIs, JUnit, and Mockito.
+Currently exploring Java, Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on experience in REST APIs, JUnit, and Mockito.
 
 
 
