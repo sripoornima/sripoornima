@@ -3,7 +3,7 @@ I’m a Computer Science Engineering graduate .
 
 Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on experience in REST APIs, JUnit, and Mockito.
 
- Reach me at: sripoornimadevi24@gmail.com  
+
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripoornimadevi)  
@@ -28,15 +28,13 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-GitHub Stats:
+## GitHub Stats:
 
 
 
 ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)
 
 [![Sripoornima's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripoornima&theme=dark)](https://github.com/sripoornima/github-readme-stats)
-
-
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sripoornima&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/sripoornima)
 
