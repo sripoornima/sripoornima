@@ -40,7 +40,7 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ## 🏆 GitHub Trophies  
 
 
-[![GitHub Stats](https://nirzak-github-stats.vercel.app/api?username=sripoornima&theme=dark)](https://github.com/sripoornima)
+[![GitHub Stats](https://nirzak-github-stats.vercel.app/api?username=sripoornimadevi1&theme=dark)](https://github.com/sripoornimadevi1)
 
 
 ---
