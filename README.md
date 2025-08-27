@@ -1,14 +1,13 @@
 ## About Me
-🎓 B.E. in Computer Science Engineering @ Knowledge Institute of Technology (2021–2025)  
-💡 Passionate about backend development, databases, and building scalable web apps  
-🌱 Currently exploring: Spring Boot, Docker, Kubernetes, Jenkins  
-🧪 Experienced with: JUnit, Mockito, REST APIs  
-📫 Reach me at: sripoornimadevi24@gmail.com  
+## About Me  
+I’m a Computer Science Engineering graduate at Knowledge Institute of Technology (2021–2025), passionate about backend development, databases, and scalable web apps.  
+Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on experience in REST APIs, JUnit, and Mockito.
+
+ Reach me at: sripoornimadevi24@gmail.com  
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripoornimadevi)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sripoornimadevi1)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://sripoornimadevi1.github.io)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://sripoornimadevi24.wixsite.com/my-site)  
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
@@ -27,7 +26,6 @@
 ## Featured Projects
 [![Mobile Prepaid Web App](https://img.shields.io/badge/Mobile%20Prepaid%20Web%20App-Spring%20Boot%20%7C%20MySQL-blue?style=flat-square)](https://github.com/sripoornima/Mobileprepaid.git)  
 [![ElecXa E-commerce Platform](https://img.shields.io/badge/ElecXa%20E-commerce%20Platform-Spring%20MVC%20%7C%20Thymeleaf-purple?style=flat-square)](https://github.com/Selvaganapathi-414/MyElecXa.git)  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-HTML%20%7C%20CSS%20%7C%20JS-green?style=flat-square)](https://github.com/sripoornimadevi1/portfolio-website)  
 
 ## GitHub Activity Summary
 🔥 Total Commits: 180+  
