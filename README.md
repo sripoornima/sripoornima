@@ -26,33 +26,7 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats:
-**Sripoornimadevi T S's GitHub Stats**
 
----
-
-**Summary**
-- ⭐ Total Stars Earned: 0  
-- 🔁 Total Commits: 180+  
-- 📤 Total Pull Requests: 0  
-- 🐞 Total Issues: 0  
-- 🌍 Contributed to (last year): 0  
-
----
-
-**Contribution Details**
-- 📅 Total Contributions: 193 (May 21, 2020 – Present)  
-- 🔥 Current Streak: 3 days  
-- 🏆 Longest Streak: 3 days (Feb 26–28, 2024)  
-
----
-
-**Most Used Languages**
-- 💻 Java  
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚙️ JavaScript
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sripoornimadevi1&theme=github-dark)
 
 
 
