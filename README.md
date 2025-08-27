@@ -34,6 +34,7 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ### 🌀 Prowess Grade  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&lines=Grade:+C" alt="Prowess Grade" />
 
+
 ---
 
 ### 🟨 Contribution Summary  
@@ -43,5 +44,15 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)  
 📍 **Last Contribution**: Aug 27
 
+---
+
+### 🟩 Most Used Languages  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-97.15%25-orange?style=for-the-badge&logo=jupyter)  
+![Python](https://img.shields.io/badge/Python-2.85%25-blue?style=for-the-badge&logo=python)
+
+---
+
+## 🏆 GitHub Trophies  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornima&theme=darkhub)
+
 
