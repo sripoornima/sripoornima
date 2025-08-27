@@ -31,12 +31,11 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 
 ---
 
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornimadevi1&theme=dark&hide_border=false)
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)
 
 ---
 
-### 🌀 Prowess Grade  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&lines=Grade:+A+" alt="Prowess Grade" />
+
 
 ---
 
@@ -58,4 +57,4 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornimadevi1&theme=darkhub)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sripoornima&theme=darkhub)
