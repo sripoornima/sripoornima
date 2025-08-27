@@ -27,13 +27,24 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 
-## Featured Projects
-[![Mobile Prepaid Web App](https://img.shields.io/badge/Mobile%20Prepaid%20Web%20App-Spring%20Boot%20%7C%20MySQL-blue?style=flat-square)](https://github.com/sripoornima/Mobileprepaid.git)  
-[![ElecXa E-commerce Platform](https://img.shields.io/badge/ElecXa%20E-commerce%20Platform-Spring%20MVC%20%7C%20Thymeleaf-purple?style=flat-square)](https://github.com/Selvaganapathi-414/MyElecXa.git)  
+## 🚀 Featured Projects
 
-## GitHub Activity Summary
-🔥 Total Commits: 180+  
-📦 Total Projects: 3+  
-🧠 Most Used Languages: Java, HTML, CSS, JavaScript  
-🚀 Current Streak: Active  
-🏆 Longest Streak: 3 days  
+[![Mobile Prepaid Web App](https://img.shields.io/badge/Mobile%20Prepaid%20Web%20App-Spring%20Boot%20%7C%20MySQL-blue?style=for-the-badge)](https://github.com/sripoornima/Mobileprepaid.git)  
+A full-stack web application for mobile recharge with user authentication, plan browsing, and transaction history.
+
+[![ElecXa E-commerce Platform](https://img.shields.io/badge/ElecXa%20E-commerce%20Platform-Spring%20MVC%20%7C%20Thymeleaf-purple?style=for-the-badge)](https://github.com/Selvaganapathi-414/MyElecXa.git)  
+An electronics e-commerce site with cart, order placement, and admin panel. Styled with glassmorphism UI.
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-HTML%20%7C%20CSS%20%7C%20JavaScript-green?style=for-the-badge)](https://github.com/sripoornimadevi1/portfolio-website)  
+Personal portfolio showcasing skills, projects, and contact info.
+
+
+## 📊 GitHub Activity Summary
+
+- 🔥 **Total Commits**: 180+  
+- 📦 **Total Projects**: 3+  
+- 🧠 **Most Used Languages**: Java, HTML, CSS, JavaScript  
+- 🚀 **Current Streak**: Active  
+- 🏆 **Longest Streak**: 3 days (Feb 26–28, 2024)  
+- 📅 **Total Contributions**: 193 (May 21, 2020 – Present)
+
