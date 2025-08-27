@@ -26,35 +26,29 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 📱 Mobile Prepaid Web App  
-**Tech**: Spring Boot, MySQL  
-A full-stack recharge platform with user authentication, plan browsing, and transaction history.  
-🔗 [View Project](https://github.com/sripoornima/Mobileprepaid.git)
-
----
-
-### 🛒 ElecXa E-commerce Platform  
-**Tech**: Spring MVC, Thymeleaf  
-An electronics store with cart, order placement, and admin panel. Styled with glassmorphism UI.  
-🔗 [View Project](https://github.com/Selvaganapathi-414/MyElecXa.git)
+**Total Stars Earned**: 0  
+**Total Commits**: 180+  
+**Total Pull Requests**: 0  
+**Total Issues**: 0  
+**Contributed to (last year)**: 0  
 
 ---
 
-### 🌐 Portfolio Website  
-**Tech**: HTML, CSS, JavaScript  
-Personal portfolio showcasing skills, projects, and contact info.  
-🔗 [View Project](https://github.com/sripoornimadevi1/portfolio-website)
+## 📈 Contribution Details
 
-## 📊 GitHub Activity Summary
+**Total Contributions**: 193 (May 21, 2020 – Present)  
+**Current Streak**: 3 days  
+**Longest Streak**: 3 days (Feb 26–28, 2024)  
 
-| Metric                  | Value                          |
-|------------------------|--------------------------------|
-| 🔥 Total Commits       | 180+                            |
-| 📦 Total Projects      | 3+                              |
-| 🧠 Most Used Languages | Java, HTML, CSS, JavaScript     |
-| 🚀 Current Streak      | Active                          |
-| 🏆 Longest Streak      | 3 days (Feb 26–28, 2024)        |
-| 📅 Total Contributions | 193 (May 21, 2020 – Present)    |
+---
+
+## 🧠 Most Used Languages
+
+- Java  
+- HTML  
+- CSS  
+- JavaScript
+
 
