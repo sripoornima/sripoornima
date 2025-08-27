@@ -39,8 +39,8 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 ---
 ## 🏆 GitHub Trophies  
 
+[![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=sripoornima&theme=dark&hide_border=false)](https://github.com/sripoornima)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sripoornima)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🟩 Most Used Languages  
