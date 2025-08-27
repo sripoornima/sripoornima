@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sripoornimadevi T S</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🎓 CSE Student @ KIOT | 🌐 Tech Explorer</h3>
 
----
 
-## 🧠 About Me:
+About Me:
 - 🎓 B.E. in Computer Science Engineering @ Knowledge Institute of Technology (2021–2025)
 - 💡 Passionate about backend development, databases, and building scalable web apps
 - 🌱 Currently exploring: Spring Boot, Docker, Kubernetes, Jenkins
@@ -12,7 +9,7 @@
 
 ---
 
-## 🌐 Socials:
+Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/sripoornimadevi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,8 +23,7 @@
 </p>
 
 ---
-
-## 🛠️ Tech Stack:
+Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -44,8 +40,7 @@
 </p>
 
 ---
-
-## 📁 Featured Projects:
+Featured Projects:
 <p align="center">
   <a href="https://github.com/sripoornimadevi1/mobile-prepaid-webapp" target="_blank">
     <img src="https://img.shields.io/badge/Mobile%20Prepaid%20Web%20App-Spring%20Boot%20%7C%20MySQL-blue?style=for-the-badge" />
