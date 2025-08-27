@@ -47,33 +47,19 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sripoornimadevi1&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sripoornimadevi1&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sripoornimadevi1&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-mirror.vercel.app/api?username=sripoornimadevi1&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=sripoornimadevi1&theme=dark" />
+  <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=sripoornimadevi1&layout=compact&theme=dark" />
 </p>
+## 📈 GitHub Activity Summary:
+- 🔥 Total Commits: 180+
+- 📦 Total Projects: 3+
+- 🧠 Most Used Languages: Java, HTML, CSS, JavaScript
+- 🚀 Current Streak: Active
+- 🏆 Longest Streak: 3 days
 
 ---
 
-## 📁 Projects:
-- 🔗 **Mobile Prepaid Web App** – Spring Boot, HTML/CSS/JS, MySQL  
-- 🔗 **ElecXa E-commerce Platform** – Spring MVC, Thymeleaf, Bootstrap  
-- 🔗 **Portfolio Website** – HTML, CSS, JavaScript
 
----
-
-## 🏆 Achievements:
-- 🌟 Internship at Bharat Intern – Full Stack Development  
-- 🧠 Internship at CodSoft – Java Development  
-- 🛠️ Internship at Oasis Infobyte – Web Development  
-- 🥉 3rd place in Threads 2022 Techshow @ SCT  
-- 📜 TEFL Certified – Asian College of Teachers  
-- 📚 Project Management Course – Coursera
-
----
-
-## 🗣️ Languages Known:
-Tamil, English, Hindi, Sanskrit, Telugu, Malayalam (understandable)
-
----
 
 <p align="center">✨ Thanks for visiting my profile! Let's connect and build something amazing 💻</p>
