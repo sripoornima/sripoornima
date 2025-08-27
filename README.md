@@ -39,7 +39,9 @@ Currently exploring Spring Boot, Docker, Kubernetes, and Jenkins, with hands-on 
 
 ---
 ## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?user=sripoornima&theme=darkhub)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sripoornima)](https://github.com/sripoornima/github-profile-trophy)
 
 ---
 
