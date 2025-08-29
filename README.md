@@ -5,11 +5,11 @@ Currently exploring Java, Spring Boot, Docker, Kubernetes, and Jenkins, with han
 
 
 
-## Socials
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripoornimadevi)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://sripoornimadevi24.wixsite.com/my-site)  
 
-## Tech Stack:
+# Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -28,7 +28,7 @@ Currently exploring Java, Spring Boot, Docker, Kubernetes, and Jenkins, with han
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-## GitHub Stats:
+# GitHub Stats:
 
 
 
