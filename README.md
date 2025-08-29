@@ -36,7 +36,7 @@ Currently exploring Java, Spring Boot, Docker, Kubernetes, and Jenkins, with han
 
 [![Sripoornima's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripoornima&theme=dark)](https://github.com/sripoornima/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sripoornimadevi24?theme=dark&hide_border=falsek&font=Marcellus)
-
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sripoornima&bg_color=0d1117&color=f3f7fb&line=96b7e9&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sripoornima&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/sripoornima)
 
 
