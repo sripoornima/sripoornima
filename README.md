@@ -7,7 +7,8 @@ Currently exploring Java, Spring Boot, Docker, Kubernetes, and Jenkins, with han
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripoornimadevi)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://sripoornimadevi24.wixsite.com/my-site)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sripoornimadevi24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://sripoornima.github.io/)  
 
 # Tech Stack:
 
